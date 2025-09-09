@@ -1,0 +1,72 @@
+{
+  "name": "Premium Wireless Headphones",
+  "description": "Experience premium sound quality with our latest wireless headphones. Features active noise cancellation, 30-hour battery life, and premium comfort for extended listening sessions.",
+  "images": [
+    "~/images/image-1.png",
+    "~/images/image-2.png",
+    "~/images/image-3.png",
+    "~/images/image-4.png"
+  ],
+  "optionTypes": [
+    {
+      "name": "Color",
+      "options": [
+        {
+          "id": 1,
+          "name": "Black",
+          "price": 29900
+        },
+        {
+          "id": 2,
+          "name": "White",
+          "price": 29900
+        },
+        {
+          "id": 3,
+          "name": "Rose Gold",
+          "price": 32900
+        }
+      ]
+    },
+    {
+      "name": "Storage Case",
+      "options": [
+        {
+          "id": 4,
+          "name": "Standard Case",
+          "price": 0
+        },
+        {
+          "id": 5,
+          "name": "Premium Leather Case",
+          "price": 4900
+        },
+        {
+          "id": 6,
+          "name": "Waterproof Sport Case",
+          "price": 3900
+        }
+      ]
+    },
+    {
+      "name": "Warranty",
+      "options": [
+        {
+          "id": 7,
+          "name": "1 Year Standard",
+          "price": 0
+        },
+        {
+          "id": 8,
+          "name": "2 Year Extended",
+          "price": 2900
+        },
+        {
+          "id": 9,
+          "name": "3 Year Premium",
+          "price": 4900
+        }
+      ]
+    }
+  ]
+}
